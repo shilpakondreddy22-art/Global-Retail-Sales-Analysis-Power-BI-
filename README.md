@@ -114,7 +114,7 @@ Profit tends to increase when:
 🎓 *B.Tech – Civil Engineering, Sri Krishnadevaraya University*  
 💼 *Aspiring Data Analyst | Power BI | SQL | Python*  
 📍 *India*  
-🔗 [GitHub Profile](https://github.com/gembalirohit) *(update link if needed)*  
+🔗 [https://github.com/shilpakondreddy22-art]
 
 > ✨ *“I believe every dataset has a story — my goal is to translate numbers into meaningful insights that drive impact.”*
 
